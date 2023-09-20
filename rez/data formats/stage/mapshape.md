@@ -3,7 +3,7 @@
 ## 836
 ### STG01.bin - map table @ 0x8c32cba8 (0x2cba8 raw)
 
-## Map Table format
+## Map Table Format
 22 longs, which are:  
   
 - A pointer to the **Map Data Table**,  
