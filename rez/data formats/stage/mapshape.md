@@ -74,6 +74,7 @@ The layer transition effect is applied when you go to the next layer, and can be
 The game will let you use values other than 1 and 2 for this, but the other types behave the same as 1 and 2.
 
 - 1 - Gameplay layer, mainflow events will happen.
-- 2 - Transition layer, mainflow will be paused. Used for the short animations between gameplay layers.
+- 2 - Transition layer, mainflow will be paused. Used for the short animations between gameplay layers.  
+
 ---
 [Back to Rez Research page](/rez.html)
