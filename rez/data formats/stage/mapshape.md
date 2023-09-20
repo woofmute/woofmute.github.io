@@ -1,15 +1,28 @@
 # Rez MapShape Data Format
 
-## 836
-### STG01.bin - map table @ 0x8c32cba8 (0x2cba8 raw)
+## Build 836
+- STG01.BIN - map table @ 0x8c32cba8 (0x2cba8 raw)
+- STG02.BIN - map table @ 0x8c34e70c (0x4e70c raw)
+- STG03.BIN - map table @ 0x8c32ec8c (0x2ec8c raw)
+- STG04.BIN - map table @ 0x8c32eb94 (0x2eb94 raw)
+- STG05.BIN - map table @ 0x8c3507f4 (0x507f4 raw)
+- STG20.BIN - map table @ 0x8c36ecb0 (0x6ecb0 raw)
 
 ## Map Table Format
 22 longs, which are:  
-  
 - A pointer to the **Map Data Table**,  
 - 21 **Map Parameters**.  
-  
+
 This repeats per mapshape until done.
+
+## Map Data Table Layout
+6 longs, which are:
+- The total map drawnumber count,
+- The total number of objects in the object list,
+- The total number of entries in the third pointer,
+- The pointer for the map drawnumbers,
+- The pointer for the map object list,
+- The pointer for the third list.
   
 ## Map Parameters
 1. Fog type,  

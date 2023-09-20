@@ -1,7 +1,9 @@
 # Rez Research
 i am not writing a proper readme rn. this is a page that can link to the other research notes when they exist in their places.
 
-this will be worked on as i work on it. i make no promises as to how fast that will be, or whether i stay focussed on the same thing all the time. uploading as i go for my own benefit.
+this will be worked on as i work on it. i make no promises as to how fast that will be, or whether i stay focussed on the same thing all the time. uploading as i go for my own benefit.  
+
+for now i am researching Rez build 836, as it is easier to debug. notes will be adapted for the final Dreamcast version when i am ready.
   
 ***don't*** *forget to uwaa*
 
