@@ -36,7 +36,7 @@ this will be worked on as i work on it. i make no promises as to how fast that w
 
 ## External Modules
 ### Stages
-- [MapShape Data Format](rez/data%20formats/Stage/mapshape.md)
+- [MapShape Data Format](rez/data%20formats/Stage/mapshape.html)
 
 ## Guides
 - fuck
