@@ -44,4 +44,4 @@ for now i am researching Rez build 836, as it is easier to debug. notes will be 
 - fuck
 
 ---
-[Home](/README.html)
+[Home](/README.md)
