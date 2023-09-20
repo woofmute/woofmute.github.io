@@ -46,3 +46,32 @@ This repeats per mapshape until done.
 19. Time until auto advance,  
 20. Layer type,  
 21. Texture overlay ID.  
+
+### Fog Type
+[Demonstration video](https://www.youtube.com/watch?v=XuC3sLRRlJ4)
+
+Rez supports a few different fog modes, but normally only uses mode 1. Mode 2 looks cool but can cause the stage to appear to flicker when in motion.
+
+0. None,
+1. Default distant fog,
+2. Striped fog,
+3. Inverse fog,
+4. 4-7 are the same as 1.
+
+### Layer Transition Effect
+[Demonstration video](https://www.youtube.com/watch?v=tpK9foMSge4)
+
+The layer transition effect is applied when you go to the next layer, and can be further controlled by the buildup time and duration values.
+
+0. None,
+1. Fade to white,
+2. Invert camera,
+3. Screen buffer blur (default),
+4. Slide the render output down from top left over screenbuffer screenshot,
+5. All values 5 and above will crash.
+
+### Layer Type
+The game will let you use values other than 1 and 2 for this, but the other types behave the same as 1 and 2.
+
+1. Gameplay layer, mainflow events will happen.
+2. Transition layer, mainflow will be paused. Used for the short animations between gameplay layers.
