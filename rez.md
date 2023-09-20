@@ -42,3 +42,6 @@ for now i am researching Rez build 836, as it is easier to debug. notes will be 
 
 ## Guides
 - fuck
+
+---
+[Home](/README.html)
