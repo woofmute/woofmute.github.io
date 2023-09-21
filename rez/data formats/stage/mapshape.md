@@ -8,7 +8,7 @@
 - STG05.BIN - map table @ 0x8c3507f4 (0x507f4 raw)
 - STG20.BIN - map table @ 0x8c36ecb0 (0x6ecb0 raw)
 
-## Map Table Format
+## Map Table Layout
 22 longs, which are:  
 - A pointer to the **Map Data Table**,  
 - 21 **Map Parameters**.  
@@ -17,12 +17,28 @@ This repeats per mapshape until done.
 
 ## Map Data Table Layout
 6 longs, which are:
-- The total map drawnumber count,
-- The total number of objects in the object list,
-- The total number of entries in the third pointer,
-- The pointer for the map drawnumbers,
+- The total number of objects in the **scene**,
+- The total number of objects in the **object list**,
+- The total number of entries in the **third pointer**,
+- The pointer for the map scene,
 - The pointer for the map object list,
 - The pointer for the third list.
+
+## Scene Layout
+11 longs, which are:
+1. Object ID (in order of objects in the object list),
+2. Unknown (object won't render on certain values),
+3. X position,
+4. Z position,
+5. Y position,
+6. X rotation,
+7. Z rotation,
+8. Y rotation,
+9. X scale,
+10. Z scale,
+11. Y scale.
+
+This repeats for each object defined in the scene object count.
   
 ## Map Parameters
 1. Fog type,  
@@ -71,7 +87,7 @@ The layer transition effect is applied when you go to the next layer, and can be
 - 5 - All values 5 and above will crash.
 
 ### Layer Type
-The game will let you use values other than 1 and 2 for this, but the other types behave the same as 1 and 2.
+The game will let you use values other than 1 and 2 for this, but the other types seem to behave the same as 1 and 2. The game does use 3 sometimes, which is like 1.
 
 - 1 - Gameplay layer, mainflow events will happen.
 - 2 - Transition layer, mainflow will be paused. Used for the short animations between gameplay layers.  
