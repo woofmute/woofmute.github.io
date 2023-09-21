@@ -1,7 +1,7 @@
 # Rez MapShape Data Format
 
 ## Build 836
-- STG01.BIN - map table @ 0x8c32cba8 (0x2cba8 raw)
+- STG01.BIN - map table @ 0x8c32cba8 (0x2cba8 raw) - [info](/rez/notes/836/stg01.html)
 - STG02.BIN - map table @ 0x8c34e70c (0x4e70c raw)
 - STG03.BIN - map table @ 0x8c32ec8c (0x2ec8c raw)
 - STG04.BIN - map table @ 0x8c32eb94 (0x2eb94 raw)
