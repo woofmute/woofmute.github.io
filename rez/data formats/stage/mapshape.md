@@ -39,6 +39,23 @@ This repeats per mapshape until done.
 11. Y scale.
 
 This repeats for each object defined in the scene object count.
+
+## Object List Layout
+12 longs per object, these are:
+1. The offset for the **NJCM** model in the stage .NB file,
+2. The offset for the model's starting **NMDM** animation in the .NB (optional),
+3. A pointer to a table of pointers to 1ST_READ's code (same for each object),
+4. The offset for the model's **CPSM** in the .NB,
+5. The offset for the model's next **CPSM** in the .NB,
+6. Object display mode (00 solid/01 wire)
+7. Unknown,
+8. Can take an **NMDM** offset and use it constantly but unsure if this is its purpose,
+9. Unknown,
+10. Unknown,
+11. An offset for the model's **NMDM** in the .NB (for constant anim?),
+12. The offset for the **NMDM** to override with when the layer is about to transition.
+
+This repeats for every object to be defined in the object list.
   
 ## Map Parameters
 1. Fog type,  
