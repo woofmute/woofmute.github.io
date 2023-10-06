@@ -17,8 +17,8 @@ Map table starts at 0x8c32cba8 (0x2cba8 raw).
 | Wire colour ARGB            | FFB4501E  |
 | Camera angle                | 44480000  |
 | Camera distance             | 3555  |
-| Starting pass speed         | F4  |
-| Pass speed from loop        | F4  |
+| Starting pass animation     | F4  |
+| Pass animation for loop     | F4  |
 | Pass count-up               | 1  |
 | Starting map frame          | 0  |
 | Frame to change map         | 42BE0000  |
@@ -44,8 +44,8 @@ Map table starts at 0x8c32cba8 (0x2cba8 raw).
 | Wire colour ARGB            | B44B4B4B  |
 | Camera angle                | 44BB8000  |
 | Camera distance             | 5555  |
-| Starting pass speed         | F7  |
-| Pass speed from loop        | F7  |
+| Starting pass animation     | F7  |
+| Pass animation for loop     | F7  |
 | Pass count-up               | 1  |
 | Starting map frame          | 0  |
 | Frame to change map         | 0  |
@@ -71,8 +71,8 @@ Map table starts at 0x8c32cba8 (0x2cba8 raw).
 | Wire colour ARGB            | FFB4501E  |
 | Camera angle                | 44480000  |
 | Camera distance             | 3555  |
-| Starting pass speed         | FA  |
-| Pass speed from loop        | FA  |
+| Starting pass animation     | FA  |
+| Pass animation for loop     | FA  |
 | Pass count-up               | 1  |
 | Starting map frame          | 0  |
 | Frame to change map         | 42BE0000  |
@@ -98,8 +98,8 @@ Map table starts at 0x8c32cba8 (0x2cba8 raw).
 | Wire colour ARGB            | B44B4B4B  |
 | Camera angle                | 44BB8000  |
 | Camera distance             | 5555  |
-| Starting pass speed         | FD  |
-| Pass speed from loop        | FD  |
+| Starting pass animation     | FD  |
+| Pass animation for loop     | FD  |
 | Pass count-up               | 1  |
 | Starting map frame          | 0  |
 | Frame to change map         | 0  |
@@ -125,8 +125,8 @@ Map table starts at 0x8c32cba8 (0x2cba8 raw).
 | Wire colour ARGB            | FFB4501E  |
 | Camera angle                | 44480000  |
 | Camera distance             | 3555  |
-| Starting pass speed         | 100  |
-| Pass speed from loop        | 100  |
+| Starting pass animation     | 100  |
+| Pass animation for loop     | 100  |
 | Pass count-up               | 1  |
 | Starting map frame          | 42BE0000  |
 | Frame to change map         | 42FE0000  |
@@ -152,8 +152,8 @@ Map table starts at 0x8c32cba8 (0x2cba8 raw).
 | Wire colour ARGB            | B44B4B4B  |
 | Camera angle                | 44BB8000  |
 | Camera distance             | 5555  |
-| Starting pass speed         | 103  |
-| Pass speed from loop        | 103  |
+| Starting pass animation     | 103  |
+| Pass animation for loop     | 103  |
 | Pass count-up               | 1  |
 | Starting map frame          | 0  |
 | Frame to change map         | 0  |
@@ -179,8 +179,8 @@ Map table starts at 0x8c32cba8 (0x2cba8 raw).
 | Wire colour ARGB            | FFB4501E  |
 | Camera angle                | 44BB8000  |
 | Camera distance             | 3555  |
-| Starting pass speed         | 106  |
-| Pass speed from loop        | 106  |
+| Starting pass animation     | 106  |
+| Pass animation for loop     | 106  |
 | Pass count-up               | 1  |
 | Starting map frame          | 0  |
 | Frame to change map         | 41F80000  |
@@ -206,8 +206,8 @@ Map table starts at 0x8c32cba8 (0x2cba8 raw).
 | Wire colour ARGB            | B44B4B4B  |
 | Camera angle                | 44BB8000  |
 | Camera distance             | 5555  |
-| Starting pass speed         | 109  |
-| Pass speed from loop        | 109  |
+| Starting pass animation     | 109  |
+| Pass animation for loop     | 109  |
 | Pass count-up               | 1  |
 | Starting map frame          | 0  |
 | Frame to change map         | 0  |
@@ -233,8 +233,8 @@ Map table starts at 0x8c32cba8 (0x2cba8 raw).
 | Wire colour ARGB            | FF28283C  |
 | Camera angle                | 44BB8000  |
 | Camera distance             | 3555  |
-| Starting pass speed         | 106  |
-| Pass speed from loop        | 10C  |
+| Starting pass animation     | 106  |
+| Pass animation for loop     | 10C  |
 | Pass count-up               | 1  |
 | Starting map frame          | 0  |
 | Frame to change map         | 427C0000  |
@@ -260,8 +260,8 @@ Map table starts at 0x8c32cba8 (0x2cba8 raw).
 | Wire colour ARGB            | B44B4B4B  |
 | Camera angle                | 44BB8000  |
 | Camera distance             | 5555  |
-| Starting pass speed         | 10F  |
-| Pass speed from loop        | 10F  |
+| Starting pass animation     | 10F  |
+| Pass animation for loop     | 10F  |
 | Pass count-up               | 1  |
 | Starting map frame          | 0  |
 | Frame to change map         | 0  |
@@ -287,8 +287,8 @@ Map table starts at 0x8c32cba8 (0x2cba8 raw).
 | Wire colour ARGB            | FF322814  |
 | Camera angle                | 44BB8000  |
 | Camera distance             | 3555  |
-| Starting pass speed         | 10C  |
-| Pass speed from loop        | 10C  |
+| Starting pass animation     | 10C  |
+| Pass animation for loop     | 10C  |
 | Pass count-up               | 1  |
 | Starting map frame          | 427C0000  |
 | Frame to change map         | 42BE0000  |
@@ -314,8 +314,8 @@ Map table starts at 0x8c32cba8 (0x2cba8 raw).
 | Wire colour ARGB            | B44B4B4B  |
 | Camera angle                | 44BB8000  |
 | Camera distance             | 5555  |
-| Starting pass speed         | 112  |
-| Pass speed from loop        | 112  |
+| Starting pass animation     | 112  |
+| Pass animation for loop     | 112  |
 | Pass count-up               | 1  |
 | Starting map frame          | 0  |
 | Frame to change map         | 0  |
@@ -341,8 +341,8 @@ Map table starts at 0x8c32cba8 (0x2cba8 raw).
 | Wire colour ARGB            | A0463C28  |
 | Camera angle                | 453B8000  |
 | Camera distance             | 3555  |
-| Starting pass speed         | 115  |
-| Pass speed from loop        | 115  |
+| Starting pass animation     | 115  |
+| Pass animation for loop     | 115  |
 | Pass count-up               | 1  |
 | Starting map frame          | 0  |
 | Frame to change map         | 41F80000  |
@@ -368,8 +368,8 @@ Map table starts at 0x8c32cba8 (0x2cba8 raw).
 | Wire colour ARGB            | 644B4B4B  |
 | Camera angle                | 457A0000  |
 | Camera distance             | 5555  |
-| Starting pass speed         | 118  |
-| Pass speed from loop        | 118  |
+| Starting pass animation     | 118  |
+| Pass animation for loop     | 118  |
 | Pass count-up               | 1  |
 | Starting map frame          | 0  |
 | Frame to change map         | 0  |
@@ -395,8 +395,8 @@ Map table starts at 0x8c32cba8 (0x2cba8 raw).
 | Wire colour ARGB            | 42646464  |
 | Camera angle                | 455AC000  |
 | Camera distance             | 3555  |
-| Starting pass speed         | 11B  |
-| Pass speed from loop        | 11B  |
+| Starting pass animation     | 11B  |
+| Pass animation for loop     | 11B  |
 | Pass count-up               | 1  |
 | Starting map frame          | 0  |
 | Frame to change map         | 41F80000  |
@@ -422,8 +422,8 @@ Map table starts at 0x8c32cba8 (0x2cba8 raw).
 | Wire colour ARGB            | 644B4B4B  |
 | Camera angle                | 457A0000  |
 | Camera distance             | 5555  |
-| Starting pass speed         | 11E  |
-| Pass speed from loop        | 11E  |
+| Starting pass animation     | 11E  |
+| Pass animation for loop     | 11E  |
 | Pass count-up               | 1  |
 | Starting map frame          | 0  |
 | Frame to change map         | 0  |
@@ -449,8 +449,8 @@ Map table starts at 0x8c32cba8 (0x2cba8 raw).
 | Wire colour ARGB            | A0282882  |
 | Camera angle                | 453B8000  |
 | Camera distance             | 3555  |
-| Starting pass speed         | 121  |
-| Pass speed from loop        | 121  |
+| Starting pass animation     | 121  |
+| Pass animation for loop     | 121  |
 | Pass count-up               | 1  |
 | Starting map frame          | 0  |
 | Frame to change map         | 41F80000  |
@@ -476,8 +476,8 @@ Map table starts at 0x8c32cba8 (0x2cba8 raw).
 | Wire colour ARGB            | B44B4B4B  |
 | Camera angle                | 44FA0000  |
 | Camera distance             | 5555  |
-| Starting pass speed         | 124  |
-| Pass speed from loop        | 124  |
+| Starting pass animation     | 124  |
+| Pass animation for loop     | 124  |
 | Pass count-up               | 1  |
 | Starting map frame          | 0  |
 | Frame to change map         | 0  |
@@ -503,8 +503,8 @@ Map table starts at 0x8c32cba8 (0x2cba8 raw).
 | Wire colour ARGB            | A0B4501E  |
 | Camera angle                | 457A0000  |
 | Camera distance             | 3555  |
-| Starting pass speed         | 124  |
-| Pass speed from loop        | 124  |
+| Starting pass animation     | 124  |
+| Pass animation for loop     | 124  |
 | Pass count-up               | 1  |
 | Starting map frame          | 0  |
 | Frame to change map         | 427C0000  |
@@ -530,8 +530,8 @@ Map table starts at 0x8c32cba8 (0x2cba8 raw).
 | Wire colour ARGB            | B44B4B4B  |
 | Camera angle                | 459C4000  |
 | Camera distance             | 5555  |
-| Starting pass speed         | 124  |
-| Pass speed from loop        | 124  |
+| Starting pass animation     | 124  |
+| Pass animation for loop     | 124  |
 | Pass count-up               | 1  |
 | Starting map frame          | 0  |
 | Frame to change map         | 0  |
@@ -557,8 +557,8 @@ Map table starts at 0x8c32cba8 (0x2cba8 raw).
 | Wire colour ARGB            | 78643C00  |
 | Camera angle                | 451C4000  |
 | Camera distance             | 3555  |
-| Starting pass speed         | 124  |
-| Pass speed from loop        | 124  |
+| Starting pass animation     | 124  |
+| Pass animation for loop     | 124  |
 | Pass count-up               | 1  |
 | Starting map frame          | 0  |
 | Frame to change map         | 3F800000  |
@@ -584,8 +584,8 @@ Map table starts at 0x8c32cba8 (0x2cba8 raw).
 | Wire colour ARGB            | 78784600  |
 | Camera angle                | 451C4000  |
 | Camera distance             | 3555  |
-| Starting pass speed         | 127  |
-| Pass speed from loop        | 12A  |
+| Starting pass animation     | 127  |
+| Pass animation for loop     | 12A  |
 | Pass count-up               | 1  |
 | Starting map frame          | 0  |
 | Frame to change map         | 0  |

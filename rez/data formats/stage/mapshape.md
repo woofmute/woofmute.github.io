@@ -17,14 +17,14 @@ This repeats per mapshape until done.
 
 ## Map Data Table Layout
 6 longs, which are:
-- The total number of objects in the **scene**,
-- The total number of objects in the **object list**,
-- The total number of entries in the **third pointer**,
-- The pointer for the map scene,
-- The pointer for the map object list,
-- The pointer for the third list.
+- The total number of objects in the **instance list**,
+- The total number of objects in the **model list**,
+- The total number of entries in the **group list**,
+- The pointer for the map instance list,
+- The pointer for the map model list,
+- The pointer for the map group list.
 
-## Scene Layout
+## Instance List Layout
 11 longs, which are:
 1. Object ID (in order of objects in the object list),
 2. Unknown (object won't render on certain values),
@@ -40,7 +40,7 @@ This repeats per mapshape until done.
 
 This repeats for each object defined in the scene object count.
 
-## Object List Layout
+## Model List Layout
 12 longs per object, these are:
 1. The offset for the **NJCM** model in the stage .NB file,
 2. The offset for the model's starting **NMDM** animation in the .NB (optional),
@@ -66,8 +66,8 @@ This repeats for every object to be defined in the object list.
 6. Wire colour,  
 7. Camera angle,  
 8. Camera distance,  
-9. Starting pass speed,  
-10. Pass speed from loop,  
+9. Starting pass animation index in STG NB,  
+10. Pass loop animation index in STG NB,  
 11. Pass doesn't count-up when not 01,  
 12. Affects starting map frame number,  
 13. Affects which frame the map changes shape on,  
