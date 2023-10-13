@@ -64,7 +64,7 @@ This repeats for every object to be defined in the object list.
 4. Fog colour,  
 5. BG colour,  
 6. Wire colour,  
-7. Camera angle,  
+7. Camera far,  
 8. Camera distance,  
 9. Starting pass animation index in STG NB,  
 10. Pass loop animation index in STG NB,  

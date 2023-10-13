@@ -15,7 +15,7 @@ Map table starts at 0x8c32cba8 (0x2cba8 raw).
 | Fog colour ARGB             | 00000000  |
 | BG colour ARGB              | 00000000  |
 | Wire colour ARGB            | FFB4501E  |
-| Camera angle                | 44480000  |
+| Camera far                  | 44480000  |
 | Camera distance             | 3555  |
 | Starting pass animation     | F4  |
 | Pass animation for loop     | F4  |
@@ -42,7 +42,7 @@ Map table starts at 0x8c32cba8 (0x2cba8 raw).
 | Fog colour ARGB             | 00FF2800  |
 | BG colour ARGB              | 00000000  |
 | Wire colour ARGB            | B44B4B4B  |
-| Camera angle                | 44BB8000  |
+| Camera far                  | 44BB8000  |
 | Camera distance             | 5555  |
 | Starting pass animation     | F7  |
 | Pass animation for loop     | F7  |
@@ -69,7 +69,7 @@ Map table starts at 0x8c32cba8 (0x2cba8 raw).
 | Fog colour ARGB             | 000A0000  |
 | BG colour ARGB              | 000A0000  |
 | Wire colour ARGB            | FFB4501E  |
-| Camera angle                | 44480000  |
+| Camera far                  | 44480000  |
 | Camera distance             | 3555  |
 | Starting pass animation     | FA  |
 | Pass animation for loop     | FA  |
@@ -96,7 +96,7 @@ Map table starts at 0x8c32cba8 (0x2cba8 raw).
 | Fog colour ARGB             | 00FF2800  |
 | BG colour ARGB              | 00000000  |
 | Wire colour ARGB            | B44B4B4B  |
-| Camera angle                | 44BB8000  |
+| Camera far                  | 44BB8000  |
 | Camera distance             | 5555  |
 | Starting pass animation     | FD  |
 | Pass animation for loop     | FD  |
@@ -123,7 +123,7 @@ Map table starts at 0x8c32cba8 (0x2cba8 raw).
 | Fog colour ARGB             | 000A0000  |
 | BG colour ARGB              | 000A0000  |
 | Wire colour ARGB            | FFB4501E  |
-| Camera angle                | 44480000  |
+| Camera far                  | 44480000  |
 | Camera distance             | 3555  |
 | Starting pass animation     | 100  |
 | Pass animation for loop     | 100  |
@@ -150,7 +150,7 @@ Map table starts at 0x8c32cba8 (0x2cba8 raw).
 | Fog colour ARGB             | 00FF2800  |
 | BG colour ARGB              | 00000000  |
 | Wire colour ARGB            | B44B4B4B  |
-| Camera angle                | 44BB8000  |
+| Camera far                  | 44BB8000  |
 | Camera distance             | 5555  |
 | Starting pass animation     | 103  |
 | Pass animation for loop     | 103  |
@@ -177,7 +177,7 @@ Map table starts at 0x8c32cba8 (0x2cba8 raw).
 | Fog colour ARGB             | 00140A00  |
 | BG colour ARGB              | 00140A00  |
 | Wire colour ARGB            | FFB4501E  |
-| Camera angle                | 44BB8000  |
+| Camera far                  | 44BB8000  |
 | Camera distance             | 3555  |
 | Starting pass animation     | 106  |
 | Pass animation for loop     | 106  |
@@ -204,7 +204,7 @@ Map table starts at 0x8c32cba8 (0x2cba8 raw).
 | Fog colour ARGB             | 00FF2800  |
 | BG colour ARGB              | 00000000  |
 | Wire colour ARGB            | B44B4B4B  |
-| Camera angle                | 44BB8000  |
+| Camera far                  | 44BB8000  |
 | Camera distance             | 5555  |
 | Starting pass animation     | 109  |
 | Pass animation for loop     | 109  |
@@ -231,7 +231,7 @@ Map table starts at 0x8c32cba8 (0x2cba8 raw).
 | Fog colour ARGB             | 00140A00  |
 | BG colour ARGB              | 00140A00  |
 | Wire colour ARGB            | FF28283C  |
-| Camera angle                | 44BB8000  |
+| Camera far                  | 44BB8000  |
 | Camera distance             | 3555  |
 | Starting pass animation     | 106  |
 | Pass animation for loop     | 10C  |
@@ -258,7 +258,7 @@ Map table starts at 0x8c32cba8 (0x2cba8 raw).
 | Fog colour ARGB             | 00FF2800  |
 | BG colour ARGB              | 00000000  |
 | Wire colour ARGB            | B44B4B4B  |
-| Camera angle                | 44BB8000  |
+| Camera far                  | 44BB8000  |
 | Camera distance             | 5555  |
 | Starting pass animation     | 10F  |
 | Pass animation for loop     | 10F  |
@@ -285,7 +285,7 @@ Map table starts at 0x8c32cba8 (0x2cba8 raw).
 | Fog colour ARGB             | 00140A00  |
 | BG colour ARGB              | 00140A00  |
 | Wire colour ARGB            | FF322814  |
-| Camera angle                | 44BB8000  |
+| Camera far                  | 44BB8000  |
 | Camera distance             | 3555  |
 | Starting pass animation     | 10C  |
 | Pass animation for loop     | 10C  |
@@ -312,7 +312,7 @@ Map table starts at 0x8c32cba8 (0x2cba8 raw).
 | Fog colour ARGB             | 00FF2800  |
 | BG colour ARGB              | 0  |
 | Wire colour ARGB            | B44B4B4B  |
-| Camera angle                | 44BB8000  |
+| Camera far                  | 44BB8000  |
 | Camera distance             | 5555  |
 | Starting pass animation     | 112  |
 | Pass animation for loop     | 112  |
@@ -339,7 +339,7 @@ Map table starts at 0x8c32cba8 (0x2cba8 raw).
 | Fog colour ARGB             | 00460A14  |
 | BG colour ARGB              | 00140A00  |
 | Wire colour ARGB            | A0463C28  |
-| Camera angle                | 453B8000  |
+| Camera far                  | 453B8000  |
 | Camera distance             | 3555  |
 | Starting pass animation     | 115  |
 | Pass animation for loop     | 115  |
@@ -366,7 +366,7 @@ Map table starts at 0x8c32cba8 (0x2cba8 raw).
 | Fog colour ARGB             | 00FF2800  |
 | BG colour ARGB              | 00000000  |
 | Wire colour ARGB            | 644B4B4B  |
-| Camera angle                | 457A0000  |
+| Camera far                  | 457A0000  |
 | Camera distance             | 5555  |
 | Starting pass animation     | 118  |
 | Pass animation for loop     | 118  |
@@ -393,7 +393,7 @@ Map table starts at 0x8c32cba8 (0x2cba8 raw).
 | Fog colour ARGB             | 005A1E14  |
 | BG colour ARGB              | 00140A00  |
 | Wire colour ARGB            | 42646464  |
-| Camera angle                | 455AC000  |
+| Camera far                  | 455AC000  |
 | Camera distance             | 3555  |
 | Starting pass animation     | 11B  |
 | Pass animation for loop     | 11B  |
@@ -420,7 +420,7 @@ Map table starts at 0x8c32cba8 (0x2cba8 raw).
 | Fog colour ARGB             | 00FF2800  |
 | BG colour ARGB              | 00000000  |
 | Wire colour ARGB            | 644B4B4B  |
-| Camera angle                | 457A0000  |
+| Camera far                  | 457A0000  |
 | Camera distance             | 5555  |
 | Starting pass animation     | 11E  |
 | Pass animation for loop     | 11E  |
@@ -447,7 +447,7 @@ Map table starts at 0x8c32cba8 (0x2cba8 raw).
 | Fog colour ARGB             | 005A1E14  |
 | BG colour ARGB              | 00140A00  |
 | Wire colour ARGB            | A0282882  |
-| Camera angle                | 453B8000  |
+| Camera far                  | 453B8000  |
 | Camera distance             | 3555  |
 | Starting pass animation     | 121  |
 | Pass animation for loop     | 121  |
@@ -474,7 +474,7 @@ Map table starts at 0x8c32cba8 (0x2cba8 raw).
 | Fog colour ARGB             | 00FF2800  |
 | BG colour ARGB              | 00000000  |
 | Wire colour ARGB            | B44B4B4B  |
-| Camera angle                | 44FA0000  |
+| Camera far                  | 44FA0000  |
 | Camera distance             | 5555  |
 | Starting pass animation     | 124  |
 | Pass animation for loop     | 124  |
@@ -501,7 +501,7 @@ Map table starts at 0x8c32cba8 (0x2cba8 raw).
 | Fog colour ARGB             | 00327800  |
 | BG colour ARGB              | 00140A00  |
 | Wire colour ARGB            | A0B4501E  |
-| Camera angle                | 457A0000  |
+| Camera far                  | 457A0000  |
 | Camera distance             | 3555  |
 | Starting pass animation     | 124  |
 | Pass animation for loop     | 124  |
@@ -528,7 +528,7 @@ Map table starts at 0x8c32cba8 (0x2cba8 raw).
 | Fog colour ARGB             | 00FF2800  |
 | BG colour ARGB              | 00000000  |
 | Wire colour ARGB            | B44B4B4B  |
-| Camera angle                | 459C4000  |
+| Camera far                  | 459C4000  |
 | Camera distance             | 5555  |
 | Starting pass animation     | 124  |
 | Pass animation for loop     | 124  |
@@ -555,7 +555,7 @@ Map table starts at 0x8c32cba8 (0x2cba8 raw).
 | Fog colour ARGB             | 005A1E14  |
 | BG colour ARGB              | 00140A00  |
 | Wire colour ARGB            | 78643C00  |
-| Camera angle                | 451C4000  |
+| Camera far                  | 451C4000  |
 | Camera distance             | 3555  |
 | Starting pass animation     | 124  |
 | Pass animation for loop     | 124  |
@@ -582,7 +582,7 @@ Map table starts at 0x8c32cba8 (0x2cba8 raw).
 | Fog colour ARGB             | 003C0000  |
 | BG colour ARGB              | 00000000  |
 | Wire colour ARGB            | 78784600  |
-| Camera angle                | 451C4000  |
+| Camera far                  | 451C4000  |
 | Camera distance             | 3555  |
 | Starting pass animation     | 127  |
 | Pass animation for loop     | 12A  |
